@@ -38,3 +38,4 @@ INSERT INTO products.usuarios (id, nome, email, senha_hash, tipo) VALUES ('37', 
 INSERT INTO products.usuarios (id, nome, email, senha_hash, tipo) VALUES ('38', 'Andre Romaguera', 'Hannah.Strosin15@gmail.com', '8b24cd3d-a932-49ab-b399-faf06fe2f2ac', 'cliente');
 INSERT INTO products.usuarios (id, nome, email, senha_hash, tipo) VALUES ('39', 'Dr. Matt Kling', 'Madilyn.Schroeder@yahoo.com', '82008fae-206c-48ee-85c3-2a6b48169c87', 'cliente');
 INSERT INTO products.usuarios (id, nome, email, senha_hash, tipo) VALUES ('40', 'Glenn Bernier IV', 'Ulises_Gutkowski@gmail.com', 'de6298b7-a93b-4f4e-8f33-def3dd42c2c4', 'admin');
+INSERT INTO products.usuarios (id, nome, email, senha_hash, tipo) VALUES ('41', 'camila', 'camila@gmail.com', '$2b$10$lSsycu3/HGx2vt.dmdmkH.a.TJCIBSIQ.Q3qq1f1sBNkdDOHsHi2C', 'admin');

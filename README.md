@@ -23,7 +23,10 @@ cd .\react-inventory-manager\
 
 - Crie um banco de dados MySQL chamado `products`.
 - Execute os scripts em `populate_db/insert_products.txt` e `populate_db/insert_users.txt` para popular as tabelas `produtos` e `usuarios`.
-
+- User Admin: 
+    - user: camila@gmail.com
+    - senha: 123
+    
 ### 2. Backend
 
 ```sh
